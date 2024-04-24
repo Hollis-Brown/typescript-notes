@@ -28,4 +28,4 @@
 
  [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
 
-mark>TypeScript learning journey to be continued ...</mark>
+<mark>TypeScript learning journey to be continued ...</mark>
