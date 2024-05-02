@@ -28,4 +28,7 @@
 
  [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets)
 
-<mark>TypeScript learning journey to be continued ...</mark>
+#### My TypeScript learning journey will be continued. Here are some references I can use for future study. 
+- [Programming With Mosh's TypeScript tutorial](https://www.youtube.com/watch?v=d56mG7DezGs&t=1646s)
+- [ByteGrad's TypeScript tutorial](https://www.youtube.com/watch?v=TPACABQTHvM)
+- [Tech With Tim's TypeScript tutorial](https://www.youtube.com/watch?v=cDeTUYkaEkg)
